@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'Bruno Ace SC';
+    src: url(../fonts/bruno_ace/BrunoAceSC-Regular.ttf) format("opentype");
+    font-weight: 400;
+}
+@font-face {
+    font-family: 'Ysabeau';
+    src: url(../fonts/ysabeau/Ysabeau-VariableFont_wght.ttf) format("opentype");
+    font-weight: 400;
+}
